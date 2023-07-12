@@ -10,7 +10,7 @@
   </a>
   <h3 align="center">VulExplainer</h3>
   <p align="center">
-    Transformer-based Distillation for Hierarchical Software Vulnerability Classification
+    A Transformer-based Hierarchical Distillation for Explaining Vulnerability Types
   </p>
 </p>
      
