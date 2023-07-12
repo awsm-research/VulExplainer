@@ -347,7 +347,7 @@ The data was originally collected from [Big-Vul Dataset](https://github.com/ZeoV
   </details>
     
 ## License 
-<a href="TODO">MIT License</a>
+<a href="https://github.com/awsm-research/VulExplainer/blob/main/LICENSE">MIT License</a>
 
 ## Citation
 ```bash
