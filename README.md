@@ -351,5 +351,11 @@ The data was originally collected from [Big-Vul Dataset](https://github.com/ZeoV
 
 ## Citation
 ```bash
-under review
+@article{fu2023vulexplainer,
+  title={VulExplainer: A Transformer-based Hierarchical Distillation for Explaining Vulnerability Types},
+  author={Fu, Michael and Nguyen, Van and Tantithamthavorn, Chakkrit Kla and Le, Trung and Phung, Dinh},
+  journal={IEEE Transactions on Software Engineering},
+  year={2023},
+  publisher={IEEE}
+}
 ```
